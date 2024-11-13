@@ -10,3 +10,8 @@ modify env.yml, set your config.
 ```
 pip install -r requirements.txt
 ```
+
+
+## Recent Development Plan
+* Test ChatGLM Tools Agent
+* Choose a Cloud TTS Tool(incloud speech recognition)
