@@ -11,6 +11,12 @@ modify env.yml, set your config.
 pip install -r requirements.txt
 ```
 
+## Development Script
+
+```
+.venv\Scripts\pip freeze > requirements.txt
+```
+
 
 ## Recent Development Plan
 * Test ChatGLM Tools Agent

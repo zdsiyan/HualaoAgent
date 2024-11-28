@@ -163,4 +163,4 @@ cython_debug/
 
 
 # yml config file
-*.yml
+env.yml
